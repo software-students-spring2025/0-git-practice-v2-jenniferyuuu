@@ -8,5 +8,5 @@ I found the contradiction about how AI will overtake the job workforce and the o
 
 ## Comments from others 
 
-### from Novrain7 (pc3135)
+### Patrick Cao/Novrain7 (pc3135)
 I believe the article certainly questions the ability for today's AI LLM's to act as software engineers. As a student studying machine learning myself, my professor has noted countless times that AI is definitely a double-edged sword and it is imperative that users properly understand the possible shortcomings of using such models. The article makes a point that current models from Cognition AI are failing the majority of its software engineering tasks and actually take longer than a human equivalent to implement, raising concern on whether the tech industry should really be embracing the use of machine learning to automate software development so quickly. In fact, there are plenty of real-world examples where companies blindly implemented AI technology and subsequently lost vast amounts of money due to unintended flawed behavior, with Zillow coming to mind as one particular case.
